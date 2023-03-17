@@ -1,4 +1,4 @@
-This app use NextJS for create an e-commerce using Shopify via GraphQL as backend.
+This app is made in NextJS using TypeScrtipt for create an e-commerce using Shopify via GraphQL as backend.
 
 ## Getting Started
 
